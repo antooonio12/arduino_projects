@@ -2,7 +2,7 @@
 
 ### by Antooonio, 2025-05-21
 
-##Important info
+## Important info
 Yesterday I got a **starter Arduino Kit** with a lot of projects in it. In this repo I'll upload every completed project including the code I used, if there's one. 
 You can buy it in the _Arduino Official Store_: https://store.arduino.cc/products/arduino-starter-kit-multi-language
 
