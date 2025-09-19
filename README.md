@@ -10,7 +10,8 @@ You can buy it in the _Arduino Official Store_: https://store.arduino.cc/product
 Before we start, there you have some simple circuits with leds, buttons, potentiometers and more stuff. In these you **DON'T** need code, it's all made in the board.
 Soon I'll be posting **all** the projects the book proposes you to complete.
 
-![leds](https://github.com/user-attachments/assets/c40dfd3b-a2f1-47cc-a570-93c30b9966c5) ![leds](https://github.com/user-attachments/assets/357ae389-bde2-4071-8bde-d92c56fac9ef)
+![leds](https://github.com/user-attachments/assets/c40dfd3b-a2f1-47cc-a570-93c30b9966c5) ![leds](https://github.com/user-attachments/assets/357ae389-bde2-4071-8bde-d92c56fac9ef) 
+![leds](https://github.com/user-attachments/assets/452b118d-19a3-4b81-8032-1aecfbdc05a6)
 
 ![1 button led](https://github.com/user-attachments/assets/99abe4eb-d993-46e4-af32-4b34ce8afbe7) ![2 button led](https://github.com/user-attachments/assets/9543ebcf-b823-41aa-833b-c4e5214731fd)
 ![potentiometer](https://github.com/user-attachments/assets/f09cc205-afc5-421a-aedc-43445925d858) ![button potentiometer](https://github.com/user-attachments/assets/e2511bee-dbf7-4f68-93da-3cbdcb5eadb2)
