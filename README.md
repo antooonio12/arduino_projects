@@ -1,6 +1,6 @@
 # arduino_projects
 
-### by Antooonio, 2025-05-21
+### by antooonio, 2025-05-21
 
 ## Important info
 Yesterday I got a **starter Arduino Kit** with a lot of projects in it. In this repo I'll upload every completed project including the code I used, if there's one. 
