@@ -1,0 +1,18 @@
+## Information
+
+This **first project** teaches you how the Arduino board works, the protoboard, and above all, how to complete your **first circuit**, including components like wires, LEDs, and resistors.
+Also, it helps you understand and apply *Ohm's law*, and especially the basic components of electronics such as voltage, current, and resistance.
+
+## All you need
+
+### For this project you will need:
+- Wires
+- 220Ω Resistors
+- LEDs
+- Buttons
+- Obviously Arduino and protoboard :)
+
+## Your first interactive circuit
+Firstly, you need to connect black wire from Ground (GND) pin to any of the negative pole on the protoboard, and the red wire from 5V or 3.3V pins on Arduino to the red line pole on protoboard. In this way, you give electricity to the protoboard, congrats!
+Then, put a LED on the protoboard and connect the 220Ω resistor from the positive pole to the **long leg** (cathode) of the LED, and a wire from negative pole to the **short leg** (anode). *(figure 1)* That's it, you have made your fisrt simple circuit... But, let's evolve it in an interactive one!
+
