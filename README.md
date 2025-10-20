@@ -20,7 +20,7 @@ To give power to Arduino you need to conncect it by the **b-type** wire included
 - **You need no code for this!**
 ## Your first interactive circuit
 Firstly, you need to connect black wire from **Ground (GND) pin** to any of the negative pole on the protoboard, and the red wire from **5V or 3.3V pins** on Arduino to the red line pole on protoboard. In this way, you give *electricity* to the protoboard, congrats!
-Then, put a LED on the protoboard and connect the **220Ω resistor** from the positive pole to the long leg **(cathode)** of the LED, and a wire from negative pole to the short leg **(anode)** *(figure 1)*. That's it, you have made your first simple circuit... But, let's evolve it in an **interactive** one!
+Then, put a LED on the protoboard and connect the **220Ω resistor** from the positive pole to the long leg **(anode)** of the LED, and a wire from negative pole to the short leg **(cathode)** *(figure 1)*. That's it, you have made your first simple circuit... But, let's evolve it in an **interactive** one!
 It's so simple, you only need to add one button, connect it by a wire to the **cathode** and put the resistor in the **other** leg of the button. You made it! Now, the LED **won't** turn on if you don't push the button. *(figure 2)*
 
 ![first led](https://github.com/user-attachments/assets/d349de44-e493-4754-8c6d-717d35bfbc83)
@@ -42,6 +42,25 @@ In this type of circuit, components are placed **one next to the other.** Modify
 
 ![parallel circuit](https://github.com/user-attachments/assets/1713caca-4e4b-4751-ae0a-ce247772f2fa)
 *(figure 4)*
+
+
+# **02 PROJECT: SPACESHIP** *(2025-10-20)*
+### For this project you will need:
+- Wires
+- 220Ω Resistors
+- 10KΩ Resistors
+- LEDs
+- Buttons
+- Obviously Arduino and protoboard :)
+
+
+## Your first code
+You will need **Arduino IDE** (software platform used to write, compile and uplode code to your Arduino board). You can download it from its **official website**: https://www.arduino.cc/en/software/
+But firstly, let's build the **circuit**! Give power to your protoboard by connecting both poles (+ and -). Then, put 3 LEDs, 2 red and a single green, as you already known **(220Ω resistors)**. Don't forget to connect LEDs' anods to Arduino pins (for example 3, 4 and 5). Besides, you will need to put one **button** on the protoboard by plugging in it with a 10KΩ resistor and a wire to the pin 2 (or any you want). *(figure 4)* 
+
+Then, you will need to werite and apply the code on Arduino IDE, as projects book says. Here you have it if you need it: 
+
+
 
 
 ## Contact
