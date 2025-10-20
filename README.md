@@ -57,11 +57,9 @@ In this type of circuit, components are placed **one next to the other.** Modify
 ## Your first code
 You will need **Arduino IDE** (software platform used to write, compile and uplode code to your Arduino board). You can download it from its **official website**: https://www.arduino.cc/en/software/
 But firstly, let's build the **circuit**! Give power to your protoboard by connecting both poles (+ and -). Then, put 3 LEDs, 2 red and a single green, as you already known **(220Ω resistors)**. Don't forget to connect LEDs' anods to Arduino pins (for example 3, 4 and 5). Besides, you will need to put one **button** on the protoboard by plugging in it with a 10KΩ resistor and a wire to the pin 2 (or any you want). *(figure 4)* 
+Then, you will need to werite and apply the code on Arduino IDE, as projects book says. Here you have it if you need it: https://github.com/antooonio12/arduino_projects/blob/a81f91774b5a43a990c6858a42c5acb7a6b81b1b/PROJECT%2002%3A%20SPACESHIP%20CODE
 
-Then, you will need to werite and apply the code on Arduino IDE, as projects book says. Here you have it if you need it: 
-
-
-
+![spaceship](https://github.com/user-attachments/assets/4b7ccf70-a380-42d2-93e2-e52bb764aa1d) *(figure 4)* 
 
 ## Contact
 If you want to contact me, please use my email: contact.antooonio12@gmail.com. There you can suggest me anything you want.
