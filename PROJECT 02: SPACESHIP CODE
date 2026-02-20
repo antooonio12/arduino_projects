@@ -21,9 +21,9 @@ else {
   digitalWrite(3, LOW);
   digitalWrite(4, LOW);
   digitalWrite(5, HIGH);
-  delay(250); //waits a little
+  delay(250); //waits a bit
   digitalWrite(4, HIGH);
   digitalWrite(5, LOW);
-  delay(250); //waits a little
+  delay(250); //waits a bit
   }
 } // loop restarts
