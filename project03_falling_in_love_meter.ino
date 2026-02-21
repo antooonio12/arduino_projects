@@ -37,4 +37,3 @@ if(temperature < baselineTemp+2){ //baselineTemp+x can be adjusted to your own
  }
  delay(1); //time between measurements, in miliseconds
 }
-
