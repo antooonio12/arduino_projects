@@ -83,5 +83,5 @@ Remember you can **always** change the parameters in it acording to your room te
 <img src="https://github.com/user-attachments/assets/b94e5010-9b05-416a-baa7-02ced71693ca" width="500"> *(figure 6)*
 
 ## Contact
-If you want to contact me, please use my email contact.antooonio12@gmail.com. There you can suggest me anything you want.
+If you want to contact me, please use my email antonio.pa@posteo.com. There you can suggest me anything you want.
 My goal is to learn a lot, so I'll apreciate it.
